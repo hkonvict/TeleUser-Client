@@ -1,6 +1,7 @@
 # TeleUser-Client
 Telegram Client that helps you to reply for Personal Messages using your own account when you are Offline.
 
+
 ## Introduction
 
 Using [Telegram API and TDLib](https://core.telegram.org/#tdlib-build-your-own-telegram) a client is made that reply for Personal Messages.
@@ -48,6 +49,10 @@ And then run the `TeleUser.py` as:
 ```bash
 python TeleUser.py
 ```
+
+While running the `TeleUser.py` in the terminal, you have to provide your **Phone Number** (or bot token), so provide the phone number in **clean syntax**.
+
+Example: If the Phone Number is `+1 (541) 730-3975` then give it as `15417303975`.
 
 ## Working
 
